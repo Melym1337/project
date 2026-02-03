@@ -1,0 +1,53 @@
+[
+    { "name": "Көпжасов Уалихан", "subject": "Сметное дело в строительстве. АВС-4", "date": "2025-11-18", "certificate": "certificates/Көпжасов Уалихан.pdf", "password": "excel205424"},
+    { 
+        "name": "Алиса", 
+        "subject": "Excel", 
+        "date": "2023-05-15", 
+        "certificate": "cert1.pdf", 
+        "password": "excel101"
+    },
+    { 
+        "name": "Бек", 
+        "subject": "Web",  
+        "certificate": "cert2.pdf", 
+        "password": "web302"
+    },
+    { 
+        "name": "Гульнар", 
+        "subject": "Photoshop", 
+        "date": "2023-07-10", 
+        "certificate": "cert3.pdf", 
+        "password": "photo403"
+    },
+    { 
+        "name": "Данияр", 
+        "subject": "AutoCAD 2D", 
+        "date": "2023-08-05", 
+        "certificate": "cert4.pdf", 
+        "password": "cad504"
+    },
+    { 
+        "name": "Еркебулан", 
+        "subject": "3DsMAX", 
+        "date": "2023-09-12", 
+        "certificate": "cert5.pdf", 
+        "password": "3ds605"
+    },
+    { 
+        "name": "лжеЕркебулан", 
+        "subject": "3DsMAX", 
+        "date": "12.09.2023", 
+        "certificate": "cert5.pdf", 
+        "password": "3ds605"
+    },
+    { 
+        "name": "лжеДмитрий", 
+        "subject": "3DsMAX", 
+        "date": "12.12.2012", 
+        "certificate": "cert5.pdf", 
+        "password": "3ds605"
+    }
+]
+
+
